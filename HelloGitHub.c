@@ -8,5 +8,6 @@
 int main(void)
 {
   printf("Hello GitHub!\n");
+  printf("Test sgit\n");
   return 0;
 }
